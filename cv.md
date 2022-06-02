@@ -31,3 +31,37 @@ kurash.lizaveta@gmail.com
 * SQL
 * Test Result Reports
 * Estimation time
+
+### CODE EXAMPLE
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+### EXPERIENCE  
+**Wargaming**  
+**QA Engineer**
+
+**Dec 2021 - May 2022**
+
+* Web-application testing
+* Api testing
+* Smoke, regression testing
+* Requirements analysis
+* Writing test documentation: check-list, test-cases
+* View logs ( Kibana, Windows )
+* Working with the database
+* Participation in SCRUM
+* Estimation time for testing
+* Communication with PM, BA, Developer
+
+
+### EDUCATION  
+**SOFTWARE TESTING**  
+**Jul 2021 -Sep 2022**
+
+Educational Center for  
+Programming and High Tech  
+(IT-Academy)
