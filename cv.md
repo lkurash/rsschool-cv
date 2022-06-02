@@ -57,7 +57,6 @@ function multiply(a, b){
 * Estimation time for testing
 * Communication with PM, BA, Developer
 
-
 ### EDUCATION  
 **SOFTWARE TESTING**  
 **Jul 2021 -Sep 2022**
