@@ -1,0 +1,97 @@
+.html {
+    background-color: #E5E7E9   ;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body {
+    width: 80%;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.0;
+    color: black;
+    line-height: 1.5;
+}
+
+.header {
+    background: #D7DBDD;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+main {
+    background: #D7DBDD;
+}
+
+.col1 {
+    width: 50%;
+    float: left;
+}
+
+.col2 {
+    width: 50%;
+    float: right;
+}
+
+.wrapper {
+    padding: 20px;
+}
+
+.img {
+    margin: 20px auto;
+    border-radius: 200%;    
+}
+
+.aboutme {
+    text-align: left;
+}
+
+.work {
+    line-height: 0%;
+}
+
+.section {
+    margin-left: 5%;
+}
+
+.code {
+}
+
+footer {
+    margin-top: 20px;
+    background: #D7DBDD;
+    padding: 15px 0;
+}
+
+.footer-github {
+    margin-bottom: 1 px;
+    text-align: center;
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+.footer-year{
+    float: left;
+    width: 33.33%;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.footer-rsschool {
+    width: 33.33%;
+    float: right;
+    text-align: center;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a:visited {
+    color: black;
+}
